@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfPrintingNetTest", "PdfPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfPrintingNetLastTest", "PdfPrintingNetLastTest\PdfPrintingNetLastTest.csproj", "{C980B67D-078C-4DB9-88F5-5DB60C73D8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockTest", "LockTest\LockTest.csproj", "{A96C3718-208C-4B20-A11E-BC09D3E13BAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C980B67D-078C-4DB9-88F5-5DB60C73D8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C980B67D-078C-4DB9-88F5-5DB60C73D8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C980B67D-078C-4DB9-88F5-5DB60C73D8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96C3718-208C-4B20-A11E-BC09D3E13BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96C3718-208C-4B20-A11E-BC09D3E13BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96C3718-208C-4B20-A11E-BC09D3E13BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96C3718-208C-4B20-A11E-BC09D3E13BAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
